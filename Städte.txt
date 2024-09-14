@@ -1,0 +1,317 @@
+München, Landeshauptstadt
+Nürnberg
+Augsburg
+Regensburg
+Ingolstadt
+Fürth
+Würzburg
+Erlangen
+Bamberg
+Landshut
+Bayreuth
+Aschaffenburg
+Kempten (Allgäu)
+Rosenheim
+Neu-Ulm
+Schweinfurt
+Passau
+Freising
+Straubing
+Dachau
+Hof
+Memmingen
+Kaufbeuren
+Weiden i.d.OPf.
+Amberg
+Ansbach
+Coburg
+Germering
+Schwabach
+Neumarkt i.d.OPf.
+Fürstenfeldbruck
+Erding
+Deggendorf
+Forchheim
+Neuburg a.d.Donau
+Friedberg 
+Schwandorf
+Landsberg am Lech 
+Unterschleißheim 
+Königsbrunn 
+Olching 
+Pfaffenhofen a.d.Ilm 
+Lauf a.d.Pegnitz 
+Zirndorf 
+Lindau (Bodensee) 
+Kulmbach 
+Geretsried 
+Roth 
+Waldkraiburg 
+Herzogenaurach 
+Starnberg 
+Gersthofen 
+Weilheim i.OB 
+Bad Kissingen 
+Kitzingen 
+Senden 
+Neusäß 
+Aichach 
+Sonthofen 
+Mühldorf a.Inn 
+Günzburg 
+Puchheim 
+Traunstein 
+Traunreut 
+Nördlingen 
+Dingolfing 
+Lichtenfels 
+Donauwörth 
+Moosburg a.d.Isar 
+Dillingen a.d.Donau 
+Bad Aibling 
+Sulzbach-Rosenberg 
+Burghausen 
+Wolfratshausen 
+Bad Tölz 
+Kolbermoor 
+Bad Reichenhall 
+Weißenburg i.Bay. 
+Alzenau 
+Marktoberdorf 
+Illertissen 
+Bobingen 
+Vilshofen an der Donau 
+Freilassing 
+Oberasbach 
+Schrobenhausen 
+Garching b.München 
+Cham 
+Gunzenhausen 
+Marktredwitz 
+Bad Wörishofen 
+Kelheim 
+Kronach 
+Penzberg 
+Pocking 
+Füssen 
+Altdorf b.Nürnberg 
+Mindelheim 
+Bad Neustadt a.d.Saale 
+Stadtbergen 
+Mainburg 
+Dorfen 
+Lohr a.Main 
+Neustadt b.Coburg 
+Karlstadt 
+Schwabmünchen 
+Selb 
+Neustadt a.d.Donau 
+Stein 
+Abensberg 
+Immenstadt i.Allgäu 
+Burglengenfeld 
+Eggenfelden 
+Neutraubling 
+Grafing b.München 
+Landau a.d.Isar 
+Vöhringen 
+Höchstadt a.d.Aisch 
+Weißenhorn 
+Buchloe 
+Hilpoltstein 
+Haßfurt 
+Krumbach (Schwaben) 
+Eichstätt 
+Pegnitz 
+Pfarrkirchen 
+Neustadt a.d.Aisch 
+Plattling 
+Treuchtlingen 
+Altötting 
+Rödental 
+Wasserburg a.Inn 
+Roding 
+Feuchtwangen 
+Hersbruck 
+Schongau 
+Bad Windsheim 
+Vilsbiburg 
+Röthenbach a.d.Pegnitz 
+Ebersberg 
+Dinkelsbühl 
+Maxhütte-Haidhof 
+Osterhofen 
+Miesbach 
+Hauzenberg 
+Lindenberg i.Allgäu 
+Geisenfeld 
+Trostberg 
+Marktheidenfeld 
+Rothenburg ob der Tauber 
+Ochsenfurt 
+Lauingen (Donau) 
+Waldkirchen 
+Regen 
+Langenzenn 
+Hammelburg 
+Bad Staffelstein 
+Burgau 
+Simbach a.Inn 
+Erlenbach a.Main 
+Bogen 
+Beilngries 
+Münchberg 
+Gemünden a.Main 
+Heilsbronn 
+Hemau 
+Miltenberg 
+Wertingen 
+Töging a.Inn 
+Nittenau 
+Ichenhausen 
+Rehau 
+Bad Griesbach i.Rottal 
+Freystadt 
+Wunsiedel 
+Rain 
+Auerbach i.d.OPf. 
+Zwiesel 
+Berching 
+Furth im Wald 
+Neuötting 
+Hallstadt 
+Volkach 
+Obernburg a.Main 
+Vohburg a.d.Donau 
+Tirschenreuth 
+Viechtach 
+Rottenburg a.d.Laaber 
+Neunburg vorm Wald 
+Helmbrechts 
+Herrieden 
+Arnstein 
+Grafenau 
+Baiersdorf 
+Gundelfingen a.d.Donau 
+Teublitz 
+Naila 
+Münnerstadt 
+Vohenstrauß 
+Parsberg 
+Leipheim 
+Bad Kötzting 
+Laufen 
+Scheßlitz 
+Ebern 
+Freyung 
+Dettelbach 
+Greding 
+Höchstädt a.d.Donau 
+Geiselhöring 
+Ebermannstadt 
+Schwarzenbach a.d.Saale 
+Gerolzhofen 
+Vilseck 
+Uffenheim 
+Waldmünchen 
+Bad Brückenau 
+Waldsassen 
+Bad Rodach 
+Mitterteich 
+Grafenwöhr 
+Neumarkt-Sankt Veit 
+Burgkunstadt 
+Thannhausen 
+Wassertrüdingen 
+Nabburg 
+Klingenberg a.Main 
+Windsbach 
+Dietfurt a.d.Altmühl 
+Riedenburg 
+Schlüsselfeld 
+Bad Königshofen i.Grabfeld 
+Neustadt a.d.Waldnaab 
+Tittmoning 
+Wemding 
+Leutershausen 
+Zeil a.Main 
+Hirschau 
+Mellrichstadt 
+Kemnath 
+Harburg (Schwaben) 
+Abenberg 
+Velburg 
+Monheim 
+Eltmann 
+Oettingen i.Bay. 
+Pfreimd 
+Pottenstein 
+Spalt 
+Hofheim i.UFr. 
+Erbendorf 
+Arzberg 
+Creußen 
+Wörth a.d.Donau 
+Oberviechtach 
+Windischeschenbach 
+Hollfeld 
+Iphofen 
+Scheinfeld 
+Bischofsheim i.d.Rhön 
+Wörth a.Main 
+Weismain 
+Heideck 
+Bad Berneck i.Fichtelgebirge 
+Schwarzenbach a.Wald 
+Eschenbach i.d.OPf. 
+Gräfenberg 
+Pressath 
+Gefrees 
+Schnaittenbach 
+Selbitz 
+Waldershof 
+Baunach 
+Ellingen 
+Marktbreit 
+Pappenheim 
+Amorbach 
+Seßlach 
+Tegernsee 
+Königsberg i.Bay. 
+Goldkronach 
+Burgbernheim 
+Rötz 
+Ostheim v.d.Rhön 
+Ludwigsstadt 
+Stadtsteinach 
+Schönwald 
+Prichsenstadt 
+Wolframs-Eschenbach 
+Kirchenlamitz 
+Eibelstadt 
+Waischenfeld 
+Weißenstadt 
+Merkendorf 
+Bärnau 
+Marktleuthen 
+Schillingsfürst 
+Wallenfels 
+Betzenstein 
+Schönsee 
+Pleystein 
+Mainbernheim 
+Fladungen 
+Rieneck 
+Teuschnitz 
+Marktsteft 
+Schauenstein 
+Velden 
+Ornbau 
+Röttingen 
+Stadtprozelten 
+Hohenberg a.d.Eger 
+Aub 
+Neustadt am Kulm 
+Kupferberg 
+Lichtenberg 
+Rothenfels 
